@@ -1,0 +1,2 @@
+[plugins."io.containerd.grpc.v1.cri"]
+   sandbox_image = "mcr.microsoft.com/windows/nanoserver:1809"
